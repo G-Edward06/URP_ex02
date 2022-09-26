@@ -36,5 +36,6 @@ Material:
     - _edgeThickness: 0.01
     - _noiseScale: 20
     m_Colors:
-    - _edgeColor: {r: 3.1058824, g: 3.0117648, b: 6.745098, a: 1}
+    - Color_275cdf59ced54deb92466a1947f9a102: {r: 0, g: 0, b: 0, a: 0}
+    - _edgeColor: {r: 5.521569, g: 5.3960786, b: 11.984314, a: 1}
   m_BuildTextureStacks: []
